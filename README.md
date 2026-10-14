@@ -12,4 +12,13 @@ The encrypted dataset is available from Baidu Netdisk:
 
 https://pan.baidu.com/s/1XDC_N1BkATFzShFXXNWgfw
 
-Applicants may provide the password after submitting the stamped application form. The email address is: dhmurals_lut@163.com
+## Application Materials
+
+Please download and complete the following documents before requesting access to the dataset and experimental code:
+
+- [Application Form](https://raw.githubusercontent.com/zhaoc0808-cyber/Evidence-Grounded-Multimodal-Knowledge-Graph-for-Dunhuang-Mural-Description-Generation/main/Dunhuang_Mural_Description_Resource_Application_Form.docx)
+- [Legal Commitment](https://raw.githubusercontent.com/zhaoc0808-cyber/Evidence-Grounded-Multimodal-Knowledge-Graph-for-Dunhuang-Mural-Description-Generation/main/Dunhuang_Mural_Description_Resource_Legal_Commitment.docx)
+
+After signing and stamping the documents, please send the completed materials to:
+
+dhmurals_lut@163.com
